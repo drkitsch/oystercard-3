@@ -105,3 +105,5 @@ end
     #   subject.deduct(5)
     #   expect(subject.balance).to eq(5)
     # end
+
+  
